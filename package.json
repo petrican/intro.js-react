@@ -1,7 +1,7 @@
 {
-  "name": "intro.js-react",
-  "version": "0.3.0",
-  "description": "Intro.js React Wrapper",
+  "name": "@petrican/intro.js-react",
+  "version": "0.3.1",
+  "description": "Intro.js React Wrapper fork",
   "main": "lib/index.js",
   "scripts": {
     "prebuild": "rimraf lib/*",
@@ -24,13 +24,13 @@
     "babel-eslint": "^7.2.3",
     "babel-jest": "26.0.1",
     "coveralls": "^3.0.1",
-    "enzyme": "^2.8.2",
-    "eslint": "7.0.0",
-    "eslint-config-airbnb": "^15.0.1",
+    "enzyme": "3.11.0",
+    "eslint": "7.7.0",
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^2.1.1",
-    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^20.0.3",
-    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^2.4.0",
     "eslint-plugin-react": "^7.0.1",
     "husky": "^0.13.4",
@@ -39,14 +39,13 @@
     "lint-staged": "^3.6.0",
     "prettier": "^1.7.0",
     "prop-types": "^15.5.10",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-test-renderer": "^15.5.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-test-renderer": "^17.0.2",
     "rimraf": "^2.6.1"
   },
   "peerDependencies": {
-    "intro.js": "^2.5.0",
-    "react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-alpha"
+    "intro.js": "^2.5.0"
   },
   "repository": {
     "type": "git",
