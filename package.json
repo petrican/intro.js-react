@@ -1,6 +1,6 @@
 {
   "name": "@petrican/intro.js-react",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Intro.js React Wrapper fork",
   "main": "lib/index.js",
   "scripts": {
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HiDeoo/intro.js-react.git"
+    "url": "git+https://github.com/petrican/intro.js-react.git"
   },
   "keywords": [
     "intro.js",
